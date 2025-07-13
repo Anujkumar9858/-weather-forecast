@@ -1,0 +1,13 @@
+.glass-card {
+    background: linear-gradient(135deg, rgba(255,255,255,0.1), rgba(255,255,255,0.15));
+    border-radius: 1rem;
+    padding: 1rem;
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+  }
+
+  .SearchBox2{
+    color: rgb(108, 102, 102);
+  }
+  
